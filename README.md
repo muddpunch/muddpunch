@@ -29,7 +29,7 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logo=toml&logoColor=white)
-![Git Config](https://img.shields.io/badge/GIT_CONFIG-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tauri](https://img.shields.io/badge/TAURI-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/DISCORD.PY-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
