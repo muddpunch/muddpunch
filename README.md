@@ -36,7 +36,7 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats & Media
 
 ![My guns.lol](https://guns.lol/muddpunch)
 ![My WakaTime](https://wakatime.com/@maxwielkastopa)
