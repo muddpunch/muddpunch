@@ -34,15 +34,6 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 ![Discord.py](https://img.shields.io/badge/DISCORD.PY-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
----
-
-## 📊 Stats & Media
-
-![My guns.lol](https://guns.lol/muddpunch)
-![My WakaTime](https://wakatime.com/@maxwielkastopa)
-
----
-
 ## 📫 Contact
 
 - 🌍 GitHub: [@muddpunch](https://github.com/muddpunch)
