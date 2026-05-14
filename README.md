@@ -5,11 +5,10 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 ---
 
 ## 🚀 What I Do
-
-- 🤖 Building Discord bots and automation tools
-- 🛠️ Working with Python, APIs, and backend logic
-- 🌐 Creating web apps and project utilities
-- 📦 Maintaining GitHub projects and open-source code
+- 🧰 I code tools created for OGFN.
+- 🤖 Building Discord bots and automation tools.
+- 🛠️ Working with Python, APIs, and backend logic.
+- 🌐 Creating web apps and project utilities.
 
 ---
 
@@ -22,21 +21,16 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![INI](https://img.shields.io/badge/INI-666666?style=for-the-badge&logo=files&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Vue](https://img.shields.io/badge/VUE-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logo=toml&logoColor=white)
 ![Git Config](https://img.shields.io/badge/GIT_CONFIG-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Makefile](https://img.shields.io/badge/MAKEFILE-427819?style=for-the-badge&logo=gnu&logoColor=white)
-
 ![Discord.py](https://img.shields.io/badge/DISCORD.PY-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
@@ -44,17 +38,16 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 
 ## 📊 GitHub Stats
 
-![muddpunch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muddpunch&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muddpunch&layout=compact&theme=github_dark&hide_border=true)
+![My guns.lol](https://guns.lol/muddpunch)
+![My WakaTime](https://wakatime.com/@maxwielkastopa)
 
 ---
 
 ## 📫 Contact
 
 - 🌍 GitHub: [@muddpunch](https://github.com/muddpunch)
-- 💼 Open for projects and collaborations
-
+- 💼 Open for developing OGFN projects, tools.
+- 👤 Discord: punchmade.v
 ---
 
-⚡ Fun fact: I build bots and tools that make servers easier to manage.
+⚡ Fun fact: I'm also very good at sim-racing, I like to study car configs and tracks.
