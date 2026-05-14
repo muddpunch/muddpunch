@@ -1,4 +1,4 @@
-# Hi there, I'm Kacper 👋
+# Hi there, I'm Matthew 👋
 
 I'm a developer from Poland, focused on Discord bots, automation, backend tools, and web applications.
 
