@@ -8,7 +8,7 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 - 🧰 I code tools created for OGFN.
 - 🤖 Building Discord bots and automation tools.
 - 🛠️ Working with Python, APIs, and backend logic.
-- 🌐 Creating web apps and project utilities.
+- 🌐 I also learn networking. I have 9 Cisco Networking Certificates.
 
 ---
 
