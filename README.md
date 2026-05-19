@@ -38,4 +38,4 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 - 👤 Discord: punchmade.v
 ---
 
-⚡ Fun fact: I'm also very good at sim-racing, I like to study car configs and tracks.
+⚡ Fun fact: I'm also intermediate at sim-racing, I like to study car configs and tracks.
