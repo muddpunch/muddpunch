@@ -5,7 +5,7 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 ---
 
 ## 🚀 What I Do
-- 🧰 I code tools created for OGFN.
+- 🧰 I was coding tools created for OGFN.
 - 🤖 Building Discord bots and automation tools.
 - 🛠️ Working with Python, APIs, and backend logic.
 - 🌐 I also learn networking. I have 9 Cisco Networking Certificates.
@@ -34,7 +34,7 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 ## 📫 Contact
 
 - 🌍 GitHub: [@muddpunch](https://github.com/muddpunch)
-- 💼 Open for developing OGFN projects, tools.
+- 💼 Open for developing tools.
 - 👤 Discord: punchmade.v
 ---
 
