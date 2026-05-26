@@ -36,6 +36,9 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 - 🌍 GitHub: [@muddpunch](https://github.com/muddpunch)
 - 💼 Open for developing tools.
 - 👤 Discord: punchmade.v
+<a href="https://discord.com/users/443101466329088010">
+  <img src="https://api.lanyard.rest/v1/users/443101466329088010" />
+</a>
 ---
 
 ⚡ Fun fact: I'm also intermediate at sim-racing, I like to study car configs and tracks.
