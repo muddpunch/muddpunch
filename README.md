@@ -37,7 +37,7 @@ I'm a developer from Poland, focused on Discord bots, automation, backend tools,
 - 💼 Open for developing tools.
 - 👤 Discord: punchmade.v
 <a href="https://discord.com/users/443101466329088010">
-  <img src="https://api.lanyard.rest/v1/users/443101466329088010" />
+  <img src="https://lanyard.cnrad.dev/api/44310146632908801?theme=dark&bg=1f2125&borderRadius=8px&animated=true" />
 </a>
 ---
 
