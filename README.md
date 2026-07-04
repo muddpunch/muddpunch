@@ -8,7 +8,7 @@ I'm a developer from Poland.
 - sim race!! >.<
 - hang out with people :3
 - play various games! (most of them are multiplayer!!)
-
+- Open for developing various backends and programs.
 ---
 
 ## Languages i know!
@@ -25,9 +25,5 @@ I'm a developer from Poland.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="Csharp" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="Csharp" width="60" height="60"/>
 
-## Contact
 
-- GitHub: [@muddpunch](https://github.com/muddpunch)
-- Open for developing various backends and programs.
-- Discord: 23m.ev
 [![23m.ev's Discord status](https://dsc-readme.tsuni.dev/api/user/443101466329088010?bannerColor=644573&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesler/discord-github-preview)
