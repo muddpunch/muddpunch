@@ -30,6 +30,4 @@ I'm a developer from Poland.
 - GitHub: [@muddpunch](https://github.com/muddpunch)
 - Open for developing various backends and programs.
 - Discord: 23m.ev
-<a href="https://discord.com/users/443101466329088010">
-  <img src="https://lanyard.cnrad.dev/api/443101466329088010?theme=dark&bg=1f2125&borderRadius=8px&animated=true&showDisplayName=true&idleMessage=I'm%20not%20currently%20doing%20anything!" />
-</a>
+[![23m.ev's Discord status](https://dsc-readme.tsuni.dev/api/user/443101466329088010?bannerColor=644573&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesler/discord-github-preview)
