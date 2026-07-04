@@ -1,7 +1,8 @@
 # Hi I'm matthew, but people call me mudd! >.<
 
 I'm a developer from Poland. 
-
+---
+![github stats](https://github-stats-alpha.vercel.app/api?username=muddpunch&cc=000&tc=fff&ic=fff&bc=000)
 ---
 
 ## What i like to do in free time?
