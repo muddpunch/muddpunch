@@ -19,17 +19,17 @@ I'm a developer from Poland.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
 </p>
 
-## 📘 Languages I'm learning
+## Languages I'm learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="Csharp" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="Csharp" width="60" height="60"/>
 
-## 📫 Contact
+## Contact
 
-- 🌍 GitHub: [@muddpunch](https://github.com/muddpunch)
-- 💼 Open for developing various backends and programs.
-- 👤 Discord: 23m.ev
+- GitHub: [@muddpunch](https://github.com/muddpunch)
+- Open for developing various backends and programs.
+- Discord: 23m.ev
 <a href="https://discord.com/users/443101466329088010">
   <img src="https://lanyard.cnrad.dev/api/443101466329088010?theme=dark&bg=1f2125&borderRadius=8px&animated=true&showDisplayName=true&idleMessage=I'm%20not%20currently%20doing%20anything!" />
 </a>
