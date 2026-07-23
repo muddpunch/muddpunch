@@ -1,6 +1,7 @@
 # Hi I'm matthew, but people call me mudd! >.<
 
 <img src="https://www.image2url.com/r2/default/gifs/1784806409325-ed514695-abe4-4e9b-9c81-ffa284fc750f.gif" alt="Patrick Jane"/>
+
 ---
 ![github stats](https://github-stats-alpha.vercel.app/api?username=muddpunch&cc=000&tc=fff&ic=fff&bc=000)
 ---
@@ -27,4 +28,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="Csharp" width="60" height="60"/>
 
 
-[![23m.ev's Discord status](https://dsc-readme.tsuni.dev/api/user/443101466329088010?bannerColor=644573&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesle[...]
+[![23m.ev's Discord status](https://dsc-readme.tsuni.dev/api/user/443101466329088010?bannerColor=644573&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)]
