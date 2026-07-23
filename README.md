@@ -28,4 +28,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="Csharp" width="60" height="60"/>
 
 
-[![23m.ev's Discord status](https://dsc-readme.tsuni.dev/api/user/443101466329088010?bannerColor=644573&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)
+![23m.ev's Discord status](https://dsc-readme.tsuni.dev/api/user/443101466329088010?bannerColor=644573&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)
