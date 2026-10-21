@@ -1,6 +1,6 @@
 # Hi I'm matthew, but people call me mudd! >.<
 
-<img src="https://kommodo.ai/i/LbJ0joiCbTi4NLt8OSbT" alt="banner"/>
+<img src="https://plain-weur-prod-public.komododecks.com/202610/21/LbJ0joiCbTi4NLt8OSbT/image.png" alt="banner"/>
 
 
 ![github stats](https://github-stats-alpha.vercel.app/api?username=muddpunch&cc=000&tc=fff&ic=fff&bc=000)
