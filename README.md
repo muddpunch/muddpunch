@@ -37,9 +37,6 @@
 
 <img src="https://streak-stats.demolab.com?user=muddpunch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=82B1FF&fire=A78BFA&currStreakLabel=82B1FF" width="75%" />
 
-### contributions
-
-![GitHub Activity](https://ghchart.rshah.org/58A6FF/muddpunch)
 
 </div>
 
