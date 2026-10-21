@@ -59,7 +59,7 @@ a far cry 5 toolkit with a 3d viewer because apparently nobody made one before
 
 finding offsets and messing with game internals
 
-`Reverse Engineering` `Tooling`
+`C#` `Reverse Engineering` `Tooling`
 
 </td>
 <td width="34%" valign="top">
