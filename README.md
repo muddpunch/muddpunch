@@ -2,7 +2,6 @@
 
 # hey, i'm matthew. people call me mudd! >.<
 
-**backend developer · reverse engineering enthusiast · game tooling**
 
 <img src="https://plain-weur-prod-public.komododecks.com/202610/21/LbJ0joiCbTi4NLt8OSbT/image.png" alt="banner"/>
 
