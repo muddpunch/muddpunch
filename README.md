@@ -4,7 +4,7 @@
 
 **backend developer · reverse engineering enthusiast · game tooling**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162a58,100:6e40c9&height=120&section=header&text=parsedcode&fontColor=ffffff&fontSize=48&animation=fadeIn" alt="parsedcode banner" width="100%" />
+<img src="https://plain-weur-prod-public.komododecks.com/202610/21/LbJ0joiCbTi4NLt8OSbT/image.png" alt="banner"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/muddpunch?style=for-the-badge&logo=github&color=3b82f6&labelColor=0d1117)](https://github.com/muddpunch?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=muddpunch&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
