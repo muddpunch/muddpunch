@@ -37,7 +37,9 @@
 
 <img src="https://streak-stats.demolab.com?user=muddpunch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=82B1FF&fire=A78BFA&currStreakLabel=82B1FF" alt="GitHub streak" width="75%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muddpunch&bg_color=0d1117&color=82b1ff&line=6e40c9&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+## Contribution Activity
+
+![GitHub Activity](https://ghchart.rshah.org/58A6FF/muddpunch)
 
 </div>
 
