@@ -79,6 +79,7 @@ One and only Assembly backend working for v8.51 (WIP)
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-muddpunch-181717?style=for-the-badge&logo=github)](https://github.com/muddpunch)
+[![Discord](https://img.shields.io/badge/Discord-parsedcode-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/443101466329088010)
 
 <!-- Optional: put your existing AeroDock Discord presence card here. -->
 
